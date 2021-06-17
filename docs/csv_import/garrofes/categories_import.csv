@@ -1,0 +1,16 @@
+Category ID,Active (0/1),Name *,Parent category,Root category (0/1),Description
+3,1,Verdures,2,0,Verdures ecològiques
+4,1,Fruites,2,0,Fruites ecològiques
+5,1,Llegums,2,0,Llegums ecològiques
+6,1,Fleca,2,0,"Pa, bolleria, farines …"
+7,1,Oli,2,0,Oli ecològic
+8,1,Begudes,2,0,Vi ecològic
+9,1,Cafe,8,0,Fruites ecològiques
+10,1,Vi,8,0,
+11,1,Pasta,2,0,Pasta de Can Lleò
+12,1,Carn,2,0,"Pollastre, vedella, xai, …."
+13,1,Xai,12,0,
+14,1,Pollastre,12,0,
+15,1,Vedella,12,0,
+16,1,Cremes,12,0,Cremes de Menjamiques
+17,1,Làctics,2,0,"Llet, iogurts I altres làctics"

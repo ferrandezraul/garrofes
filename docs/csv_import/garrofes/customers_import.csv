@@ -1,0 +1,23 @@
+Customer ID,Active (0/1),Titles ID (Mr = 1 Ms = 2 else 0),Email *,Password *,Last Name *,First Name *,Groups (x y z…)
+1,1,0,test01@test.com,123456789,familia,Helena i Velasco,Soci Les Garrofes
+2,1,0,test02@test.com,123456789,familia,Merçè i Jordi,Soci Les Garrofes
+3,1,0,test03@test.com,123456789,Cognom,Aida,Soci Les Garrofes
+4,1,0,test04@test.com,123456789,Carbó,Marc,Soci Les Garrofes
+5,1,0,test05@test.com,123456789,familia,Emma i Miguel,Soci Les Garrofes
+6,1,0,test06@test.com,123456789,familia,Sonia i Ernest,Soci Les Garrofes
+7,1,0,test07@test.com,123456789,Mora,Ismael,Soci Les Garrofes
+8,1,0,test08@test.com,123456789,Cognom,Flor,Soci Les Garrofes
+9,1,0,test09@test.com,123456789,Cognom,Ma Elena,Soci Les Garrofes
+10,1,0,test10@test.com,123456789,familia,Consol i Marc,Soci Les Garrofes
+11,1,0,test11@test.com,123456789,familia,Laia i Tiri,Soci Les Garrofes
+12,1,0,test12@test.com,123456789,Cognom,Bateta,Soci Les Garrofes
+13,1,0,test13@test.com,123456789,Hermann,Susana,Soci Les Garrofes
+14,1,0,test14@test.com,123456789,Cognom,Anna,Soci Les Garrofes
+15,1,0,test15@test.com,123456789,familia,Gerard I Àngels,Soci Les Garrofes
+16,1,0,ferrandezraul@gmail.com,123456789,familia,Carmen i Raul,Soci Les Garrofes
+17,1,0,test17@test.com,123456789,Raventós,David,Soci Les Garrofes
+18,1,0,test18@test.com,123456789,Cognom,Ernest,Soci Les Garrofes
+19,1,0,test19@test.com,123456789,familia,Sofia I Kostas,Soci Les Garrofes
+20,1,0,test20@test.com,123456789,familia,Lorena I Albert,Soci Les Garrofes
+21,1,0,test21@test.com,123456789,Cognom,Pati,Soci Les Garrofes
+22,1,0,test22@test.com,123456789,Rodriguez,Maria ,Soci Les Garrofes
