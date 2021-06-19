@@ -1,20 +1,20 @@
 Category ID,Active (0/1),Name *,Parent category,Root category (0/1),Description
-3,1,Verdures,2,0,Verdures ecològiques
-4,1,Fruites,2,0,Fruites ecològiques
-5,1,Llegums,2,0,Llegums ecològiques
-6,1,Fleca,2,0,"Pa, bolleria, farines …"
-7,1,Oli,2,0,Oli ecològic
-8,1,Begudes,2,0,Vi ecològic
-9,1,Cafe,8,0,Fruites ecològiques
+3,1,Verdures,2,0,"Enciam, tomaquet, alberginia, pebrots I altres verdures."
+4,1,Fruites,2,0,"Taronges, pomes I altres fruites."
+5,1,Llegums,2,0,"Llenties, cigrons I altres productes."
+6,1,Pa I pastisseria,2,0,"Pa, magdalenes, coques I altres productes."
+7,1,Oli,2,0,
+8,1,Begudes,2,0,
+9,1,Cafe,8,0,
 10,1,Vi,8,0,
 11,1,Pasta,2,0,Pasta de Can Lleò
-12,1,Carn,2,0,"Pollastre, vedella, xai, …."
+12,1,Carn,2,0,
 13,1,Xai,12,0,
 14,1,Pollastre,12,0,
 15,1,Vedella,12,0,
 16,1,Porc,12,0,
 17,1,Cremes,2,0,Cremes de Menjamiques
-18,1,Làctics,2,0,"Llet, iogurts I altres làctics"
+18,1,Làctics,2,0,"Llet, iogurts, formatges I altres làctics"
 19,1,Embotits,2,0,"Xoriç, fuet, llonganissa I altres."
-20,1,Cereals,2,0,"Arròs, Farines, …"
+20,1,Cereals,2,0,"Arròs, farines I altres productes."
 21,1,Altres,2,0,"Olives, melmelades I altres productes"
