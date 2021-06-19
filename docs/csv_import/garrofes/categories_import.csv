@@ -12,5 +12,9 @@ Category ID,Active (0/1),Name *,Parent category,Root category (0/1),Description
 13,1,Xai,12,0,
 14,1,Pollastre,12,0,
 15,1,Vedella,12,0,
-16,1,Cremes,12,0,Cremes de Menjamiques
-17,1,Làctics,2,0,"Llet, iogurts I altres làctics"
+16,1,Porc,12,0,
+17,1,Cremes,2,0,Cremes de Menjamiques
+18,1,Làctics,2,0,"Llet, iogurts I altres làctics"
+19,1,Embotits,2,0,"Xoriç, fuet, llonganissa I altres."
+20,1,Cereals,2,0,"Arròs, Farines, …"
+21,1,Altres,2,0,"Olives, melmelades I altres productes"

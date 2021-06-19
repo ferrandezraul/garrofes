@@ -1,23 +1,23 @@
-Address ID,Alias*,Active (0/1),Customer e-mail*,Customer ID,Lastname*,Firstname*,Address 1*,Zipcode*,City*,Country*,Phone,Mobile Phone
-1,Familia Helena I Velasco,1,test01@test.com,1,familia,Helena i Velasco,El Vendrell,43700,El Vendrell,Spain,699431337,609685188
-2,Familia Merçè i Jordi,1,test02@test.com,2,familia,Merçè i Jordi,El Vendrell,43700,El Vendrell,Spain,686018860,636431471
-3,Aida,1,test03@test.com,3,Cognom,Aida,El Vendrell,43700,El Vendrell,Spain,686018861,680266320
-4,Marc Carbo,1,test04@test.com,4,Carbó,Marc,El Vendrell,43700,El Vendrell,Spain,686018862,618907540
-5,Familia Emma i Miguel,1,test05@test.com,5,familia,Emma i Miguel,El Vendrell,43700,El Vendrell,Spain,686018863,618907541
-6,Familia Sonia i Ernest,1,test06@test.com,6,familia,Sonia i Ernest,El Vendrell,43700,El Vendrell,Spain,686018864,618907542
-7,Ismael,1,test07@test.com,7,Mora,Ismael,El Vendrell,43700,El Vendrell,Spain,686018865,618907543
-8,Flor,1,test08@test.com,8,Cognom,Flor,El Vendrell,43700,El Vendrell,Spain,686018866,618907544
-9,Ma Elena,1,test09@test.com,9,Cognom,Ma Elena,El Vendrell,43700,El Vendrell,Spain,686018867,618907545
-10,Familia Consol i Marc,1,test10@test.com,10,familia,Consol i Marc,El Vendrell,43700,El Vendrell,Spain,686018868,618907546
-11,Familia Laia i Tiri,1,test11@test.com,11,familia,Laia i Tiri,El Vendrell,43700,El Vendrell,Spain,686018869,618907547
-12,Bateta,1,test12@test.com,12,Cognom,Bateta,El Vendrell,43700,El Vendrell,Spain,686018870,618907548
-13,Susana,1,test13@test.com,13,Hermann,Susana,El Vendrell,43700,El Vendrell,Spain,686018871,618907549
-14,Anna,1,test14@test.com,14,Cognom,Anna,El Vendrell,43700,El Vendrell,Spain,686018872,618907550
-15,Familia Gerard I Àngels,1,test15@test.com,15,familia,Gerard I Àngels,El Vendrell,43700,El Vendrell,Spain,686018873,618907551
-16,Familia Carmen i Raul,1,ferrandezraul@gmail.com,16,familia,Carmen i Raul,Sant Salvador,43880,El Vendrell,Spain,635920094,691232340
-17,David,2,test17@test.com,17,Raventós,David,El Vendrell,43700,El Vendrell,Spain,686018875,618907553
-18,Ernest,3,test18@test.com,18,Cognom,Ernest,El Vendrell,43700,El Vendrell,Spain,686018876,618907554
-19,Familia Sofia I Kostas,4,test19@test.com,19,familia,Sofia I Kostas,El Vendrell,43700,El Vendrell,Spain,686018877,618907555
-20,Familia Lorena I Albert,5,test20@test.com,20,familia,Lorena I Albert,El Vendrell,43700,El Vendrell,Spain,686018878,618907556
-21,Pati,6,test21@test.com,21,Cognom,Pati,El Vendrell,43700,El Vendrell,Spain,686018879,618907557
-22,Maria,7,test22@test.com,22,Rodriguez,Maria ,El Vendrell,43700,El Vendrell,Spain,686018880,618907558
+Address ID,Alias*,Active (0/1),Customer e-mail*,Customer ID,Lastname*,Firstname*,Address 1*,Zipcode*,City*,Country*,Phone,Mobile Phone,DNI
+1,Familia Helena I Velasco,1,test01@test.com,1,familia,Helena i Velasco,El Vendrell,43700,El Vendrell,Spain,699431337,609685188,-
+2,Familia Merçè i Jordi,1,test02@test.com,2,familia,Merçè i Jordi,El Vendrell,43700,El Vendrell,Spain,686018860,636431471,-
+3,Aida,1,test03@test.com,3,Cognom,Aida,El Vendrell,43700,El Vendrell,Spain,686018861,680266320,-
+4,Marc Carbo,1,test04@test.com,4,Carbó,Marc,El Vendrell,43700,El Vendrell,Spain,686018862,618907540,-
+5,Familia Emma i Miguel,1,test05@test.com,5,familia,Emma i Miguel,El Vendrell,43700,El Vendrell,Spain,686018863,618907541,-
+6,Familia Sonia i Ernest,1,test06@test.com,6,familia,Sonia i Ernest,El Vendrell,43700,El Vendrell,Spain,686018864,618907542,-
+7,Ismael,1,test07@test.com,7,Mora,Ismael,El Vendrell,43700,El Vendrell,Spain,686018865,618907543,-
+8,Flor,1,test08@test.com,8,Cognom,Flor,El Vendrell,43700,El Vendrell,Spain,686018866,618907544,-
+9,Ma Elena,1,test09@test.com,9,Cognom,Ma Elena,El Vendrell,43700,El Vendrell,Spain,686018867,618907545,-
+10,Familia Consol i Marc,1,test10@test.com,10,familia,Consol i Marc,El Vendrell,43700,El Vendrell,Spain,686018868,618907546,-
+11,Familia Laia i Tiri,1,test11@test.com,11,familia,Laia i Tiri,El Vendrell,43700,El Vendrell,Spain,686018869,618907547,-
+12,Bateta,1,test12@test.com,12,Cognom,Bateta,El Vendrell,43700,El Vendrell,Spain,686018870,618907548,-
+13,Susana,1,test13@test.com,13,Hermann,Susana,El Vendrell,43700,El Vendrell,Spain,686018871,618907549,-
+14,Anna,1,test14@test.com,14,Cognom,Anna,El Vendrell,43700,El Vendrell,Spain,686018872,618907550,-
+15,Familia Gerard I Àngels,1,test15@test.com,15,familia,Gerard I Àngels,El Vendrell,43700,El Vendrell,Spain,686018873,618907551,-
+16,Familia Carmen i Raul,1,ferrandezraul@gmail.com,16,familia,Carmen i Raul,Sant Salvador,43880,El Vendrell,Spain,635920094,691232340,-
+17,David,2,test17@test.com,17,Raventós,David,El Vendrell,43700,El Vendrell,Spain,686018875,618907553,-
+18,Ernest,3,test18@test.com,18,Cognom,Ernest,El Vendrell,43700,El Vendrell,Spain,686018876,618907554,-
+19,Familia Sofia I Kostas,4,test19@test.com,19,familia,Sofia I Kostas,El Vendrell,43700,El Vendrell,Spain,686018877,618907555,-
+20,Familia Lorena I Albert,5,test20@test.com,20,familia,Lorena I Albert,El Vendrell,43700,El Vendrell,Spain,686018878,618907556,-
+21,Pati,6,test21@test.com,21,Cognom,Pati,El Vendrell,43700,El Vendrell,Spain,686018879,618907557,-
+22,Maria,7,test22@test.com,22,Rodriguez,Maria ,El Vendrell,43700,El Vendrell,Spain,686018880,618907558,-
