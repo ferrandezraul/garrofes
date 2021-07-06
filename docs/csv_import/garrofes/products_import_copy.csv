@@ -1,0 +1,426 @@
+Product ID,Active (0/1),Quantity,"Categories (x,y,z …)",Name *,Description,Price,Supplier
+1,1,5000,Verdures,Alfabrega,Preu per manat,"1,20",Cal Sitgetí
+2,1,5001,Verdures,Alberginia,Preu el kilo,"2,50",Cal Sitgetí
+3,1,5002,Verdures,Alls secs,Preu per unitat,"0,60",Cal Sitgetí
+4,1,5003,Verdures,Alvocat hass,Preu per unitat,"7,00",Cal Sitgetí
+5,1,5004,Verdures,Bleda,Preu per unitat,"2,00",Cal Sitgetí
+6,1,5005,Verdures,Carbassó,Preu per unitat,"2,20",Cal Sitgetí
+7,1,5006,Verdures,Ceba seca,Preu per unitat,"1,70",Cal Sitgetí
+8,1,5007,Verdures,Ceba tendra,Preu per manat,"1,50",Cal Sitgetí
+9,1,5008,Verdures,Cogombre,Preu per unitat,"2,20",Cal Sitgetí
+10,1,5009,Verdures,Col kale,Preu per manat,"1,50",Cal Sitgetí
+11,1,5010,Verdures,Col,Preu per unitat,"1,50",Cal Sitgetí
+12,1,5011,Verdures,Enciam roure verd,Preu per unitat,"1,00",Cal Sitgetí
+13,1,5012,Verdures,Enciam roure negre,Preu per unitat,"1,00",Cal Sitgetí
+14,1,5013,Verdures,Enciam meravella,Preu per unitat,"1,00",Cal Sitgetí
+15,1,5014,Verdures,Gengibre,Preu el kilo,"9,00",Cal Sitgetí
+16,1,5015,Fruites,Kiwi,Preu el kilo,"4,70",Cal Sitgetí
+17,1,5016,Fruites,Llimona,Preu el kilo,"2,8",Cal Sitgetí
+18,1,5017,Verdures,Mongeta plana,Preu el kilo,"5,50",Cal Sitgetí
+19,1,5018,Verdures,Mongeta fina,Preu el kilo,6,Cal Sitgetí
+20,1,5019,Verdures,Pastanaga,Preu per manat,2,Cal Sitgetí
+21,1,5020,Verdures,Patata blanca,Preu el kilo,"1,5",Cal Sitgetí
+22,1,5021,Verdures,Pebrot verd,Preu el kilo,"3,00",Cal Sitgetí
+23,1,5022,Fruites,Plàtan,Preu el kilo,"2,9",Cal Sitgetí
+24,1,5023,Fruites,Pera sant joan,Preu el kilo,"3,20",Cal Sitgetí
+25,1,5024,Fruites,Poma fugi,Preu el kilo,"2,80",Cal Sitgetí
+26,1,5025,Fruites,Poma golden,Preu el kilo,"2,80",Cal Sitgetí
+27,1,5026,Verdures,Porro,Preu per manat,2,Cal Sitgetí
+28,1,5027,Fruites,Pressec paraguayo,Preu el kilo,"3,50",Cal Sitgetí
+29,1,5028,Fruites,Préssec groc,Preu el kilo,"3,60",Cal Sitgetí
+30,1,5029,Fruites,Pruna,Preu el kilo,3,Cal Sitgetí
+31,1,5030,Verdures,Raves,Preu per manat,"1,20",Cal Sitgetí
+32,1,5031,Verdures,Remolatxa,Preu per manat,"1,80",Cal Sitgetí
+33,1,5032,Verdures,Tomàquet ,Preu el kilo,"3,00",Cal Sitgetí
+34,1,5033,Verdures,Tomàquet cor de bou,Preu el kilo,"3,00",Cal Sitgetí
+35,1,5034,Verdures,Tomàquet pebrot,Preu el kilo,"3,00",Cal Sitgetí
+36,1,5035,Pa I pastisseria,"Pagès en motlle (blanc, 700g)",,"3,3",L’aresta
+37,1,5036,Pa I pastisseria,Pagès en motlle multillavors (blanc 700g),,"3,8",L’aresta
+38,1,5037,Pa I pastisseria,"Pagès (rodó, blanc, 900g)",,"3,95",L’aresta
+39,1,5038,Pa I pastisseria,"Rústic (amb malta d'espelta, rodó, blanc, 900g)",,"4,4",L’aresta
+40,1,5039,Pa I pastisseria,"Forment (rodó semi-integral, 900g)",,"4,3",L’aresta
+41,1,5040,Pa I pastisseria,"Forment multillavors (rodó semi-integral, 900g)",,"4,8",L’aresta
+42,1,5041,Pa I pastisseria,"Forment en motlle (semi-integral, 900g)",,"4,3",L’aresta
+43,1,5042,Pa I pastisseria,"Forment multillavors en motlle (semi-integral, 900g)",,"4,8",L’aresta
+44,1,5043,Pa I pastisseria,"Espelta 100% integral (motlle, 900g)",,"5,4",L’aresta
+45,1,5044,Pa I pastisseria,"Espelta multillavors 100% integral (motlle, 900g)",,"5,8",L’aresta
+46,1,5045,Pa I pastisseria,"Espelta semi (motlle, semi-integral, 600g)",,"4,5",L’aresta
+47,1,5046,Pa I pastisseria,"Blat egipci persa (camut, motlle, semi-integral, 600g)",,"4,5",L’aresta
+48,1,5047,Pa I pastisseria,"Pa de sègol (motlle, semi-integral, 900g)",,"4,9",L’aresta
+49,1,5048,Pa I pastisseria,Motlle anglès - blanc enriquit  (450g),,"3,1",L’aresta
+50,1,5049,Pa I pastisseria,Motlle anglès - blanc enriquit (900g),,"5,4",L’aresta
+51,1,5050,Pa I pastisseria,"Llavors blanc (rodó, 600g)",,"4,4",L’aresta
+52,1,5051,Pa I pastisseria,"Llavors semi-integral (motlle, 600g)",,"4,4",L’aresta
+53,1,5052,Pa I pastisseria,"Nous (blanc – rodó, 600g)",,"4,8",L’aresta
+54,1,5053,Pa I pastisseria,"Pa de sèsam (semi-integral, motlle, 600g)",,"4,4",L’aresta
+55,1,5054,Pa I pastisseria,"Pa d'olives (semi-integral, motlle, 600g)",,"4,8",L’aresta
+56,1,5055,Pa I pastisseria,"Pa de fajol (100% integral, 600g)",,"4,95",L’aresta
+57,1,5056,Pa I pastisseria,Panets hamburguesa 2 unitats de 100 gr,,"2,4",L’aresta
+58,1,5057,Pa I pastisseria,"Crakers d'espelta i blat persa amb sèsam (semi-integral, bosseta 150 gr)",,"3,00",L’aresta
+59,1,5058,Pa I pastisseria,"Panadó de verdures (blanc, 250g)",,"3,3",L’aresta
+60,1,5059,Pa I pastisseria,Coca d'espelta amb verdures (500g),,"7,7",L’aresta
+61,1,5060,Pa I pastisseria,"Carquinyolis (blanc, 200g)",,4,L’aresta
+62,1,5061,Pa I pastisseria,Safata variada (12 panellets),,15,L’aresta
+63,1,5062,Pa I pastisseria,Safata pinyons (12 panellets),,"17,5",L’aresta
+64,1,5063,Pa I pastisseria,Coca de sant joan adobada amb fruita natural (600 g),,"14,5",L’aresta
+65,1,5064,Pa I pastisseria,Coca de sant joan vegana amb crema de taronja (600 g),,"14,5",L’aresta
+66,1,5065,Pa I pastisseria,Magdalenes veganes de xeixa (unitats de 65g),,"0,60",L’aresta
+67,1,5066,Pa I pastisseria,Magdalenes espelta integral (50g),,"0,60",L’aresta
+68,1,5067,Pa I pastisseria,Magdalenes de fajol,,"0,60",L’aresta
+69,1,5068,Pa I pastisseria,Galetes de espelta (unitat 200gr),,"3,20",L’aresta
+70,1,5069,Pa I pastisseria,"Pastisset d'espelta integral amb xocolata (unitat, 450 gr)",,"4,5",L’aresta
+71,1,5070,Pa I pastisseria,Pastisset d'espelta integral amb garrofa (unitat 450 gr),,"4,5",L’aresta
+72,1,5071,Pa I pastisseria,Pastisset d'espelta integral amb poma (unitat 450 gr),,"4,5",L’aresta
+73,1,5072,Pa I pastisseria,Pastisset d'espelta integral amb xocolata (unitat 900 gr),,9,L’aresta
+74,1,5073,Pa I pastisseria,Pastisset d'espelta integral amb garrofa (unitat 900 gr),,9,L’aresta
+75,1,5074,Pa I pastisseria,Pastisset d'espelta integral amb poma (unitat 900 gr),,9,L’aresta
+76,1,5075,Pasta,Tagliatelle blancs,Racions de 100 gr,"1,50",Can Lleò
+77,1,5076,Pasta,Tagliatelle grocs (curcuma),Racions de 100 gr,"1,55",Can Lleò
+78,1,5077,Pasta,Tagliatelle vermells (pimenton de la vera),Racions de 100 gr,"1,55",Can Lleò
+79,1,5078,Pasta,"Raviolis farcits de carbassa, avellanes i formatge de cabra",250 gr,"5,00",Can Lleò
+80,1,5079,Pasta,Ravioli farcits de bledes i mató,250 gr,"5,00",Can Lleò
+81,1,5080,Pasta,Ravioli farcits de botifarra i trompetes de la mort,250 gr,"5,00",Can Lleò
+82,1,5081,Pasta,"Ravioli farcits de tomàquet sec, formatge gorgonzola i nous",250 gr,"5,00",Can Lleò
+83,1,5082,Pasta,Salsa bolonyesa can lleó,Tarrina de 200 gr,"4,75",Can Lleò
+84,1,5083,Oli,Arbequina garrafa 5l,,"32,0",
+85,1,5084,Oli,Arbosana garrafa 5l,,"32,0",
+86,1,5085,Oli,Menya garrafa 5l,,"32,0",
+87,1,5086,Oli,Arbequina garrafa 2l,,"15,0",
+88,1,5087,Oli,Arbosana garrafa 2l,,"15,0",
+89,1,5088,Oli,Menya garrafa 2l,,"15,0",
+90,1,5089,Llegums,"Cigrons (producte cuit) 0,5 kg",,"2,27",Mallu
+91,1,5090,Llegums,"Cigrons (producte cuit) 0,25 kg",,"1,37",Mallu
+92,1,5091,Llegums,"Llentia pardina (producte cuit) 0,5 Kg",,"2,7",Mallu
+93,1,5092,Llegums,"Llentia pardina (producte cuit) 0,25 Kg",,"1,62",Mallu
+94,1,5093,Llegums,"Cigro menut (producte sec) 0,5 Kg",,"1,8",Mallu
+95,1,5094,Llegums,Cigro menut (producte sec) 1 Kg,,"3,15",Mallu
+96,1,5095,Llegums,Cigro menut (producte sec) 5 Kg,,"14,4",Mallu
+97,1,5096,Pa I pastisseria,"Guixa (producte sec) 0,5 Kg",,"2,07",Mallu
+98,1,5097,Pa I pastisseria,Guixa (producte sec) 1 Kg,,"3,6",Mallu
+99,1,5098,Pa I pastisseria,Guixa (producte sec) 5 Kg,,"16,2",Mallu
+100,1,5099,Pa I pastisseria,"Espelta gra (producte sec) 0,5 Kg",,"1,62",Mallu
+101,1,5100,Pa I pastisseria,Espelta gra (producte sec) 1 Kg,,"2,7",Mallu
+102,1,5101,Pa I pastisseria,Espelta gra (producte sec) 5 Kg,,"12,15",Mallu
+103,1,5102,Cereals,"Farina espelta integral (producte sec) 0,5 Kg",,"1,8",Mallu
+104,1,5103,Cereals,Farina espelta integral (producte sec) 1 Kg,,"3,15",Mallu
+105,1,5104,Cereals,Farina espelta integral (producte sec) 5 Kg,,"14,4",Mallu
+106,1,5105,Llegums,Llentia (producte sec) 1 Kg,,"3,6",Mallu
+107,1,5106,Llegums,"Llentia (producte sec) 0,5 Kg",,"2,07",Mallu
+108,1,5107,Llegums,"Farina cigro (producte sec) 0,5 Kg",,"2,07",Mallu
+109,1,5108,Llegums,Farina cigro (producte sec) 1 Kg,,"3,6",Mallu
+110,1,5109,Llegums,Farina cigro (producte sec) 5 Kg,,"16,2",Mallu
+111,1,5110,"Begudes,Vi",Vi blanc os pedrer (xarel·lo),,6,Pere Luch
+112,1,5111,"Begudes,Vi",Vi blanc trencalòs (xarel·lo barrica),,7,Pere Luch
+113,1,5112,"Begudes,Vi",Vi blanc voraviu (macabeu barrica),,"6,5",Pere Luch
+114,1,5113,"Begudes,Vi",Vi negre jornal (samsó barrica),,7,Pere Luch
+115,1,5114,"Begudes,Vi",Vi negre mixó (merlot barrica),,7,Pere Luch
+116,1,5115,"Begudes,Vi","Vi reïradebet (ull de llebre, cabernet, merlot i samsó)",,"8,5",Pere Luch
+117,1,5116,Fruites,Taronges taula ,Preu el kilo,"1,6",Titu
+118,1,5117,Fruites,Taronges suc ,Preu el kilo,"1,4",Titu
+119,1,5118,Fruites,Bossa taronges mida varida (5kg),Preu unitat,"7,5",Titu
+120,1,5119,Fruites,Bossa taronges mida variada (3kg) ,Preu unitat,"4,5",Titu
+121,1,5120,Fruites,Mandarines (clementina),Preu el kilo,3,Titu
+122,1,5121,Fruites,Mandarines (autoctona),Preu el kilo,"2,5",Titu
+123,1,5122,Fruites,Carbassa cabell d'angel,Preu el kilo,"1,5",Titu
+124,1,5123,Fruites,Llimones,Preu el kilo,2,Titu
+125,1,5124,Verdures,Faveta,Preu el kilo,6,Titu
+126,1,5125,Verdures,Pesols de sopa (tirabec) ,Preu el kilo,12,Titu
+127,1,5126,Altres,Melmelades ecològiques pot 125gr (saüc),,"4,95",Verol
+128,1,5127,Altres,Melmelades ecològiques pot 125gr (móra),,"4,95",Verol
+129,1,5128,Altres,Melmelades ecològiques pot 125 gr (gavarrera),,"4,95",Verol
+130,1,5129,Altres,"Melmelades ecològiques pot 125gr (aranyó,)",,"4,95",Verol
+131,1,5130,Altres,Melmelades ecològiques pot 125gr (arç blanc ),,"4,95",Verol
+132,1,5131,Altres,Melmelades ecològiques pot 125gr (serves),,"4,95",Verol
+133,1,5132,Altres,Melmelades ecològiques pot 40gr (saüc),,"2,75",Verol
+134,1,5133,Altres,Melmelades ecològiques pot 40gr (móra),,"2,75",Verol
+135,1,5134,Altres,Melmelades ecològiques pot 40gr (gavarrera),,"2,75",Verol
+136,1,5135,Altres,Melmelades ecològiques pot 40gr (aranyó),,"2,75",Verol
+137,1,5136,Altres,Melmelades ecològiques pot 40gr (arç blanc),,"2,75",Verol
+138,1,5137,Altres,Melmelades ecològiques pot 40gr (serves),,"2,75",Verol
+139,1,5138,Begudes,Gelosia eco infusió gelificada (farigola),,"1,75",Verol
+140,1,5139,Begudes,Gelosia eco infusió gelificada (romaní),,"1,75",Verol
+141,1,5140,Begudes,Gelosia eco infusió gelificada (sempreviva),,"1,75",Verol
+142,1,5141,Altres,Olives arbequines ecològiques 180gr,,"1,95",Verol
+143,1,5142,Altres,Ous ½ Dotzena,,"1,60",
+144,1,5143,"Begudes,Cafe",Cafè mòlt (1/4 kg),,"3,25",
+145,1,5144,"Begudes,Cafe",Cafe en gra (1 kg),,"12,20",
+146,1,5145,Cereals,Espelta 1 Kg,Paquet 1kg,"3,3",Cal Pauet
+147,1,5146,Cereals,Espelta 5 Kg,Sac 5kg,"2,86",Cal Pauet
+148,1,5147,Cereals,Espelta (+15 Kg),Granel (+15 Kg),"2,2",Cal Pauet
+149,1,5148,Cereals,Camut 1 Kg,Paquet 1kg,"2,97",Cal Pauet
+150,1,5149,Cereals,Camut 5 Kg,Sac 5kg,"2,42",Cal Pauet
+151,1,5150,Cereals,Camut (+15 Kg),Granel (+15 Kg),"1,8",Cal Pauet
+152,1,5151,Cereals,Florència aurora 1 Kg,Paquet 1kg,"2,75",Cal Pauet
+153,1,5152,Cereals,Florència aurora 5 Kg,Sac 5kg,"2,2",Cal Pauet
+154,1,5153,Cereals,Florència aurora (+15 Kg),Granel (+15 Kg),"1,59",Cal Pauet
+155,1,5154,Cereals,Fajol 1 Kg,Paquet 1kg,"4,4",Cal Pauet
+156,1,5155,Cereals,Fajol 5 Kg,Sac 5kg,"3,96",Cal Pauet
+157,1,5156,Cereals,Fajol (+15 Kg),Granel (+15 Kg),"3,85",Cal Pauet
+158,1,5157,Cereals,Sègol 1 Kg,Paquet 1kg,"2,75",Cal Pauet
+159,1,5158,Cereals,Sègol 5 Kg,Sac 5kg,"2,2",Cal Pauet
+160,1,5159,Cereals,Sègol (+15 Kg),Granel (+15 Kg),"1,59",Cal Pauet
+161,1,5160,Cereals,Egípcia (espelta 50% +camut 50%) 1 Kg,Paquet 1kg,"3,12",Cal Pauet
+162,1,5161,Cereals,Egípcia (espelta 50% +camut 50%) 5 Kg,Sac 5kg,"2,70",Cal Pauet
+163,1,5162,Cereals,Egípcia (espelta 50% +camut 50%) (+15 Kg),Granel (+15 Kg),"2,08",Cal Pauet
+164,1,5163,Cereals,Mitgera (florència aurora 50% + Sègol 50%) 1 Kg,Paquet 1kg,"2,6",Cal Pauet
+165,1,5164,Cereals,Mitgera (florència aurora 50% + Sègol 50%) 5 Kg,Sac 5kg,"2,08",Cal Pauet
+166,1,5165,Cereals,Mitgera (florència aurora 50% + Sègol 50%) (+15 Kg),Granel (+15 Kg),"1,51",Cal Pauet
+167,1,5166,Cereals,Quatre cantons 1 Kg,Solsona fort 15% + Xeixa 35% + forment 35% + rixel·la o blanc De la segarra 15%,"2,6",Cal Pauet
+168,1,5167,Cereals,Quatre cantons 5 Kg,Solsona fort 15% + Xeixa 35% + forment 35% + rixel·la o blanc De la segarra 15%,"2,08",Cal Pauet
+169,1,5168,Cereals,Quatre cantons (+15 Kg),Solsona fort 15% + Xeixa 35% + forment 35% + rixel·la o blanc De la segarra 15%,"1,51",Cal Pauet
+170,1,5169,Cereals,3 blats (alcalà 50% + xeixa 25% + forment 25%) 1 Kg,Paquet 1kg,4,Cal Pauet
+171,1,5170,Cereals,3 blats (alcalà50% + xeixa 25% + forment 25% ) 5 Kg,Sac 5kg,"2,08",Cal Pauet
+172,1,5171,Cereals,3 blats (alcalà50% + xeixa 25% + forment 25% ) (+15 Kg),Granel (+15 Kg),"1,51",Cal Pauet
+173,1,5172,Cereals,Espelta semi 1 Kg,Paquet 1kg,"3,43",Cal Pauet
+174,1,5173,Cereals,Espelta semi 5 Kg,Sac 5kg,"2,91",Cal Pauet
+175,1,5174,Cereals,Espelta semi (+15 Kg),Granel (+15 Kg),"2,39",Cal Pauet
+176,1,5175,Cereals,Espelta blanca 1 Kg,Paquet 1kg,"3,84",Cal Pauet
+177,1,5176,Cereals,Espelta blanca 5 Kg,Sac 5kg,"3,32",Cal Pauet
+178,1,5177,Cereals,Espelta blanca (+15 Kg),Granel (+15 Kg),"2,86",Cal Pauet
+179,1,5178,Cereals,Florencia aurora blanca 1 Kg,Paquet 1kg,"2,81",Cal Pauet
+180,1,5179,Cereals,Florencia aurora blanca 5 Kg,Sac 5kg,"2,29",Cal Pauet
+181,1,5180,Cereals,Florencia aurora blanca (+15 Kg),Granel (+15 Kg),"1,93",Cal Pauet
+182,1,5181,Cereals,Gra espelta 1 Kg,Paquet 1kg,"2,75",Cal Pauet
+183,1,5182,Cereals,Gra espelta 5 Kg,Sac 5kg,"2,42",Cal Pauet
+184,1,5183,Cereals,Gra espelta (+15 Kg),Granel (+15 Kg),"2,04",Cal Pauet
+185,1,5184,Cereals,Gra camut 1 Kg,Paquet 1kg,"2,75",Cal Pauet
+186,1,5185,Cereals,Gra camut 5 Kg,Sac 5kg,"2,42",Cal Pauet
+187,1,5186,Cereals,Gra camut (+15 Kg),Granel (+15 Kg),"1,82",Cal Pauet
+188,1,5187,Cereals,Gra forment escairat 1 Kg,Paquet 1kg,"3,63",Cal Pauet
+189,1,5188,Cereals,Gra forment escairat 5 Kg,Sac 5kg,"3,08",Cal Pauet
+190,1,5189,Cereals,Gra forment escairat (+15 Kg),Granel (+15 Kg),"3,14",Cal Pauet
+191,1,5190,Cereals,Gra de blat alcalà 5 Kg,Sac 5kg,"1,76",Cal Pauet
+192,1,5191,Cereals,Gra de blat alcalà (+15 Kg),Granel (+15 Kg),"0,99",Cal Pauet
+193,1,5192,Cereals,Gra xeixa 5 Kg,Sac 5kg,"1,98",Cal Pauet
+194,1,5193,Cereals,Gra xeixa (+15 Kg),Granel (+15 Kg),"1,1",Cal Pauet
+195,1,5194,Cereals,Gra sègol 5 Kg,Sac 5kg,"1,98",Cal Pauet
+196,1,5195,Cereals,Gra sègol (+15 Kg),Granel (+15 Kg),"1,05",Cal Pauet
+197,1,5196,Cereals,Gra melca o sorgo blanc 1 Kg,Paquet 1kg,"3,41",Cal Pauet
+198,1,5197,Cereals,Gra melca o sorgo blanc 5 Kg,Sac 5kg,"2,86",Cal Pauet
+199,1,5198,Cereals,Gra melca o sorgo blanc (+15 Kg),Granel (+15 Kg),"2,37",Cal Pauet
+200,1,5199,"Carn,Pollastre",Barreja gallines,Sac 33 kg,"16,5",Cal Pauet
+201,1,5200,"Carn,Xai",1 xai obert en canal,,"14,3",Cal Pauet
+202,1,5201,"Carn,Xai",½ canal xai,,"14,85",Cal Pauet
+203,1,5202,"Carn,Xai",Pany costella xai,,"19,8",Cal Pauet
+204,1,5203,"Carn,Xai",Espatlla xai,,"18,7",Cal Pauet
+205,1,5204,"Carn,Xai",Cuixa xai,,"14,3",Cal Pauet
+206,1,5205,"Carn,Xai",Coll xai,,"13,2",Cal Pauet
+207,1,5206,"Carn,Xai",Daus xai amb ós,,"14,3",Cal Pauet
+208,1,,"Carn,Xai",Menuts xai,Consultar,,Cal Pauet
+209,1,5208,"Carn,Xai",Xai gros (+16.5kg) – mínim ½ canal-,Tallat o sense tallar,"13,2",Cal Pauet
+210,1,5209,"Carn,Xai",½ canal xai - tallat al gust -,,"15,4",Cal Pauet
+211,1,5210,"Carn,Xai",¼ xai barrejat - tallat al gust -,,"16,5",Cal Pauet
+212,1,5211,"Carn,Xai",Costella i mitjana xai paquet. 500g (buit),,"23,65",Cal Pauet
+213,1,5212,"Carn,Xai",Xai barrejat paq. 1kg (buit),,"18,15",Cal Pauet
+214,1,5213,"Carn,Xai",Daus de xai amb ós (mínim 1kg),,"14,3",Cal Pauet
+215,1,5214,"Carn,Pollastre",Pollastre sencer,,"7,4",Cal Rojo
+216,1,5215,"Carn,Pollastre",Pollastre sencer amb potes,,"7,4",Cal Rojo
+217,1,5216,"Carn,Pollastre",Pollastre sencer net (per al forn),,9,Cal Rojo
+218,1,5217,"Carn,Pollastre",Pollastre desfet en 4 parts,,"9,3",Cal Rojo
+219,1,5218,"Carn,Pollastre",Pollastre desfet en 8 parts,,"9,3",Cal Rojo
+220,1,5219,"Carn,Pollastre",8 parts pit separat pollastre ,,"9,6",Cal Rojo
+221,1,5220,"Carn,Pollastre",8 parts pit filatejat pollastre ,,"9,6",Cal Rojo
+222,1,5221,"Carn,Pollastre",8 parts planxa pollastre ,,"9,6",Cal Rojo
+223,1,5222,"Carn,Pollastre",Pollastre trossejat,,"9,75",Cal Rojo
+224,1,5223,"Carn,Pollastre",Mig pollastre (octaus),,"9,3",Cal Rojo
+225,1,5224,"Carn,Pollastre",Pollastre desossat,,12,Cal Rojo
+226,1,5225,"Carn,Pollastre",Ales pollastre ,,5,Cal Rojo
+227,1,5226,"Carn,Pollastre",Pit pollastre ,,25,Cal Rojo
+228,1,5227,"Carn,Pollastre",Cuixes amb os pollastre ,,"11,5",Cal Rojo
+229,1,5228,"Carn,Pollastre",Cuixes desossades pollastre ,,20,Cal Rojo
+230,1,5229,"Carn,Pollastre",Paquet per caldo pollastre ,,"2,5",Cal Rojo
+231,1,5230,"Carn,Pollastre",Hamburgueses pollastre 2 unitats,,5,Cal Rojo
+232,1,5231,"Carn,Pollastre",Hamburgueses pollastre 4 unitats,,10,Cal Rojo
+233,1,5232,"Carn,Pollastre",Pinxos 2 unitats,,5,Cal Rojo
+234,1,5233,"Carn,Pollastre",Pinxos 4 unitats,,10,Cal Rojo
+235,1,5234,"Carn,Pollastre",Caldo de pollastre,,5,Cal Rojo
+236,1,5235,"Carn,Pollastre",Caldo de pollastre + verdura,,"4,5",Cal Rojo
+237,1,5236,Cremes,Crema de garrofa clàssica-240gr,,"4,93",Menjamiques
+238,1,5237,Cremes,Crema de garrofa clàssica-350gr,,"6,46",Menjamiques
+239,1,5238,Cremes,Crema vegana- 240gr,,"4,93",Menjamiques
+240,1,5239,Cremes,Crema vegana- 350gr,,"6,46",Menjamiques
+241,1,5240,Cremes,Dolç d'ametlla- 240 gr,,"4,93",Menjamiques
+242,1,5241,Cremes,Dolç d'avellana - 240 gr,,"4,93",Menjamiques
+243,1,5242,Cremes,Allioli de garrofa -140 gr,,"3,83",Menjamiques
+244,1,5243,Cremes,Vinagre de garrofa- 250 ml,,"3,83",Menjamiques
+245,1,5244,"Carn,Porc",Cap Llom,,"4,40",Proveïdor de porc local
+246,1,5245,"Carn,Porc",Llom Peça,,"68,50",Proveïdor de porc local
+247,1,5246,"Carn,Porc",Llom Filetejat,,"6,60",Proveïdor de porc local
+248,1,5247,"Carn,Porc",Costella Porc,,"4,10",Proveïdor de porc local
+249,1,5248,"Carn,Porc",Xurrasco,,"6,40",Proveïdor de porc local
+250,1,5249,"Carn,Porc",Filet (Porc),,"14,40",Proveïdor de porc local
+251,1,5250,"Carn,Porc",Ossos (Porc),,"1,70",Proveïdor de porc local
+252,1,5251,"Carn,Porc",Picada Porc,,"3,20",Proveïdor de porc local
+253,1,5252,"Carn,Porc",Salsitxa (De Porc Sense Pebre),,"5,60",Proveïdor de porc local
+254,1,5253,"Carn,Porc",Salsitxa (De Porc Amb Pebre),,"5,60",Proveïdor de porc local
+255,1,5254,"Carn,Porc",Botifarra Blanca (Amb Pebre),,"6,80",Proveïdor de porc local
+256,1,5255,"Carn,Porc",Cansalada / Panxeta,,"4,80",Proveïdor de porc local
+257,1,5256,"Carn,Porc",Cansalada Grassa,,"1,80",Proveïdor de porc local
+258,1,5257,"Carn,Porc",Cansalada Coll,,"4,30",Proveïdor de porc local
+259,1,5258,"Carn,Porc",Peus De Porc,,"4,80",Proveïdor de porc local
+260,1,5259,"Carn,Porc",Galta De Porc,,"10,50",Proveïdor de porc local
+261,1,5260,"Carn,Porc",Orella/Morro (Porc),,"5,30",Proveïdor de porc local
+262,1,5261,"Carn,Porc",Hamburgueses De Porc ,,"7,30",Proveïdor de porc local
+263,1,5262,"Carn,Porc",Pluma (Porc),,"4,70",Proveïdor de porc local
+264,1,5263,"Carn,Porc",Secret,,"9,30",Proveïdor de porc local
+265,1,5264,"Carn,Porc",Llonganissa,,"9,60",Proveïdor de porc local
+266,1,5265,Embotits,Fuet,,"11,20",Proveïdor de porc local
+267,1,5266,"Carn,Porc",Brou Ecològic,,"4,95",Proveïdor de porc local
+268,1,5267,"Carn,Vedella",Lot 5kg vedella eco,"1,3kg bistec, 0,55kg mitjana amb os, 0,55kg xurrasco, 0,4kg escalopa, 1,2kg hamburgueses, 0,5kg rodo, 0,5kg picada","71,5",El Salt del Colom
+269,1,5268,"Carn,Vedella",Lot 10kg vedella eco,"2,6kg bistec, 1,1kg mitjana amb os, 1,1kg xurrasco, 0,4kg escalopa,0,4kg fricando, 2,4kg hamburgueses, 1kg rodo, 1kg picada","137,5",El Salt del Colom
+270,1,5269,"Carn,Vedella",Lot goumet eco,"1,5kg bistec, 2kg mitjana amb os, 0,5kg filet","93,5",El Salt del Colom
+271,1,5270,"Carn,Vedella",Bistec eco,,"17,05",El Salt del Colom
+272,1,5271,"Carn,Vedella",Xurrasco eco,,"8,25",El Salt del Colom
+273,1,5272,"Carn,Vedella",Filet eco,,"40,7",El Salt del Colom
+274,1,5273,"Carn,Vedella",Mitjana eco,,"19,8",El Salt del Colom
+275,1,5274,"Carn,Vedella",Mitjana sense òs eco,,"24,2",El Salt del Colom
+276,1,5275,"Carn,Vedella",Picada eco,,11,El Salt del Colom
+277,1,5276,"Carn,Vedella",Escalopa eco,,"17,6",El Salt del Colom
+278,1,5277,"Carn,Vedella",Carn estofar eco,,"10,45",El Salt del Colom
+279,1,5278,"Carn,Vedella",Daus amb òs eco,,"10,45",El Salt del Colom
+280,1,5279,"Carn,Vedella","Rodó lligat eco (conillets, jarret,…)",,"12,1",El Salt del Colom
+281,1,5280,"Carn,Vedella",Ossobuco eco,,"9,35",El Salt del Colom
+282,1,5281,"Carn,Vedella",Hamburgueses eco de vedella,,"14,08",El Salt del Colom
+283,1,5282,"Carn,Vedella",Fricandó eco de vedella,,"13,2",El Salt del Colom
+284,1,5283,"Carn,Vedella",Llata eco de vedella,,"14,3",El Salt del Colom
+285,1,5284,"Carn,Vedella",Cua eco de vedella,,"14,3",El Salt del Colom
+286,1,5285,"Carn,Vedella",Galtes eco de vedella,,"14,3",El Salt del Colom
+287,1,5286,"Carn,Vedella",Bistec segona de vedella,,"14,85",El Salt del Colom
+288,1,5287,"Carn,Vedella",Galtes i cua de vedella,,,El Salt del Colom
+289,1,5288,Làctics,Iogurt eco natural de vaca 128gr,,"1,06",Mas Claperol
+290,1,5289,Làctics,Pack 2 unitats iogurt eco natural de vaca 128gr,,"2,04",Mas Claperol
+291,1,5290,Làctics,Iogurt eco natural de vaca 475gr,,"3,07",Mas Claperol
+292,1,5291,Làctics,"Iogurt eco natural de vaca 1,06kg",,"4,49",Mas Claperol
+293,1,5292,Làctics,Iogurt eco desnatat de vaca 128gr,,"1,06",Mas Claperol
+294,1,5293,Làctics,Pack 2 unitats iogurt eco desnatat de vaca 128gr,,"2,04",Mas Claperol
+295,1,5294,Làctics,Iogurt eco desnatat de vaca 475gr,,"3,07",Mas Claperol
+296,1,5295,Làctics,"Iogurt eco desnatat de vaca 1,06kg",,"4,49",Mas Claperol
+297,1,5296,Làctics,Iogurt eco bifidus de vaca 128gr,,"1,06",Mas Claperol
+298,1,5297,Làctics,Iogurt eco bifidus de vaca 475gr,,"3,07",Mas Claperol
+299,1,5298,Làctics,"Iogurt eco bifidus de vaca 1,06kg",,"4,49",Mas Claperol
+300,1,5299,Làctics,Iogurt eco grec de vaca 128gr,,"1,06",Mas Claperol
+301,1,5300,Làctics,Pack 2 unitats iogurt eco grec de vaca 128gr,,"2,04",Mas Claperol
+302,1,5301,Làctics,Iogurt eco grec de vaca 475gr,,"3,07",Mas Claperol
+303,1,5302,Làctics,"Iogurt eco grec de vaca 1,06kg",,"4,49",Mas Claperol
+304,1,5303,Làctics,Suis de vaca natural 260gr,,"2,29",Mas Claperol
+305,1,5304,Làctics,Suis de vaca amb maduixa 260gr,,"2,5",Mas Claperol
+306,1,5305,Làctics,Formatge eco semi curat de vaca 250gr,,"4,54",Mas Claperol
+307,1,5306,Làctics,Formatge eco semi curat de vaca 300gr,,"5,26",Mas Claperol
+308,1,5307,Làctics,Formatge eco semi curat de vaca 500gr,,"8,19",Mas Claperol
+309,1,5308,Làctics,Formatge eco semi curat de vaca 1kg,,"15,91",Mas Claperol
+310,1,5309,Làctics,"Formatge eco semi curat de vaca 1,7kg",,"15,91",Mas Claperol
+311,1,5310,Làctics,Formatge eco madurat de vaca 300gr,,"5,62",Mas Claperol
+312,1,5311,Làctics,Formatge eco madurat de vaca 500gr,,"8,85",Mas Claperol
+313,1,5312,Làctics,Formatge eco madurat de vaca 1kg,,"17,28",Mas Claperol
+314,1,5313,Làctics,Paquet formatge rallat eco madurat de vaca 150gr,,"2,54",Mas Claperol
+315,1,5314,Làctics,Paquet formatge rallat eco madurat de vaca 1kg,,"19,34",Mas Claperol
+316,1,5315,Làctics,Formatge semi curat de vaca llescat 150 gr,,"2,77",Mas Claperol
+317,1,5316,Làctics,Formatge semi curat de vaca llescat 500 gr,,"8,94",Mas Claperol
+318,1,5317,Làctics,Pot formatge eco curat de vaca amb oli ecològic 128gr,,"4,41",Mas Claperol
+319,1,5318,Làctics,Pot formatge eco curat de vaca amb oli ecològic 475gr,,"13,08",Mas Claperol
+320,1,5319,Làctics,"Pot formatge eco curat de vaca amb oli ecològic 1,06kg",,"24,67",Mas Claperol
+321,1,5320,Làctics,Formatge friso de vaca 250 gr,,"5,56",Mas Claperol
+322,1,5321,Làctics,Mató eco de vaca 128gr,,"1,72",Mas Claperol
+323,1,5322,Làctics,Mató eco de vaca 260gr,,"3,02",Mas Claperol
+324,1,5323,Làctics,Mató eco de vaca 475gr,,"5,65",Mas Claperol
+325,1,5324,Làctics,"Mató eco de vaca 1,06kg",,"10,75",Mas Claperol
+326,1,5325,Làctics,Recuit eco de vaca 128gr,,"1,72",Mas Claperol
+327,1,5326,Làctics,"Recuit eco de vaca 1,06kg",,"10,75",Mas Claperol
+328,1,5327,Làctics,Llet eco fresca de vaca 1litre,,"2,03",Mas Claperol
+329,1,5328,Làctics,"Llet eco fresca de vaca 5litres (1,65€/litre)",,"8,63",Mas Claperol
+330,1,5329,Làctics,Iogurt natural de cabra 128gr,,"1,19",Mas Claperol
+331,1,5330,Làctics,Pack 2 unitats iogurt natural de cabra 128gr,,"2,29",Mas Claperol
+332,1,5331,Làctics,Iogurt natural de cabra 475gr,,"3,38",Mas Claperol
+333,1,5332,Làctics,Iogurt desnatat de cabra 128gr,,"1,19",Mas Claperol
+334,1,5333,Làctics,Pack 2 unitats iogurt desnatat de cabra 128gr,,"2,29",Mas Claperol
+335,1,5334,Làctics,Iogurt desnatat de cabra 475gr,,"3,38",Mas Claperol
+336,1,5335,Làctics,Iogurt grec de cabra 128gr,,"1,19",Mas Claperol
+337,1,5336,Làctics,Pack 2 unitats iogurt grec de cabra 128gr,,"2,29",Mas Claperol
+338,1,5337,Làctics,Iogurt grec de cabra 475gr,,"3,38",Mas Claperol
+339,1,5338,Làctics,"Iogurt grec de cabra 1,06 kg",,"5,6",Mas Claperol
+340,1,5339,Làctics,Cunya formatge tendre de cabra 250gr,,"5,55",Mas Claperol
+341,1,5340,Làctics,Formatge tendre de cabra 250gr,,"6,26",Mas Claperol
+342,1,5341,Làctics,Formatge tendre de cabra 300gr,,"7,31",Mas Claperol
+343,1,5342,Làctics,Formatge tendre de cabra 500gr,,"11,81",Mas Claperol
+344,1,5343,Làctics,Formatge tendre de cabra 1kg,,"22,43",Mas Claperol
+345,1,5344,Làctics,Cunya formatge madurat de cabra amb pebre negre 250gr,,"6,58",Mas Claperol
+346,1,5345,Làctics,Formatge madurat de cabra amb pebre negre 500gr,,"12,33",Mas Claperol
+347,1,5346,Làctics,Formatge madurat de cabra amb pebre negre 1kg,,"23,86",Mas Claperol
+348,1,5347,Làctics,Cunya formatge madurat de cabra amb pebre vermell 250gr,,"6,58",Mas Claperol
+349,1,5348,Làctics,Formatge madurat de cabra amb pebre vermell 500gr,,"12,33",Mas Claperol
+350,1,5349,Làctics,Formatge madurat de cabra amb pebre vermell 1kg,,"23,86",Mas Claperol
+351,1,5350,Làctics,Cunya formatge madurat de cabra amb fines herbes 250gr,,"6,58",Mas Claperol
+352,1,5351,Làctics,Formatge madurat de cabra amb fines herbes 500gr,,"12,33",Mas Claperol
+353,1,5352,Làctics,Formatge madurat de cabra amb fines herbes 1kg,,"23,86",Mas Claperol
+354,1,5353,Làctics,Cunya formatge madurat de cabra amb romani 250gr,,"6,58",Mas Claperol
+355,1,5354,Làctics,Formatge madurat de cabra amb romani 500gr,,"12,33",Mas Claperol
+356,1,5355,Làctics,Formatge madurat de cabra amb romani 1kg,,"23,86",Mas Claperol
+357,1,5356,Làctics,Formatge madurat de cabra 300gr,,"7,46",Mas Claperol
+358,1,5357,Làctics,Formatge madurat de cabra 500gr,,"12,11",Mas Claperol
+359,1,5358,Làctics,Formatge madurat de cabra 1kg,,"23,02",Mas Claperol
+360,1,5359,Làctics,Formatge curat de cabra 300gr,,"7,61",Mas Claperol
+361,1,5360,Làctics,Formatge curat de cabra 500gr,,"12,41",Mas Claperol
+362,1,5361,Làctics,Formatge curat de cabra 1kg,,"23,62",Mas Claperol
+363,1,5362,Làctics,Pot formatge cremós de cabra 260gr,,"5,38",Mas Claperol
+364,1,5363,Làctics,Pot formatge cremós de cabra amb pebre negre 260gr,,"5,43",Mas Claperol
+365,1,5364,Làctics,Pot formatge cremós de cabra amb pebre vermell 260gr,,"5,43",Mas Claperol
+366,1,5365,Làctics,Pot formatge cremós de cabra amb fines herbes 260gr,,"5,43",Mas Claperol
+367,1,5366,Làctics,Pot formatge cremós de cabra amb romaní 260gr,,"5,43",Mas Claperol
+368,1,5367,Làctics,Barra formatge cremós de cabra 300gr,,"6,73",Mas Claperol
+369,1,5368,Làctics,Barra formatge cremós de cabra 500gr,,"10,91",Mas Claperol
+370,1,5369,Làctics,Barra formatge cremós de cabra 1kg,,"21,15",Mas Claperol
+371,1,5370,Làctics,Formatge cairat de cabra 250,,"6,8",Mas Claperol
+372,1,5371,Làctics,Formatge cairat de cabra amb algues 250,,"7,15",Mas Claperol
+373,1,5372,Làctics,Formatge tendre d'ovella 250gr,,"6,79",Mas Claperol
+374,1,5373,Làctics,Formatge tendre d'ovella 300gr,,"7,95",Mas Claperol
+375,1,5374,Làctics,Formatge tendre d'ovella 500gr,,"12,89",Mas Claperol
+376,1,5375,Làctics,Formatge curat d'ovella 300gr,,"8,12",Mas Claperol
+377,1,5376,Làctics,Formatge curat d'ovella 500gr,,"13,19",Mas Claperol
+378,1,5377,Embotits,Fuet extra eco ( 90 grs),,"2,19",Mas Claperol
+379,1,5378,Embotits,Fuet extra eco ( 180 grs),,"4,81",Mas Claperol
+380,1,5379,Embotits,Llonganissa extra eco (125 grs),,"3,18",Mas Claperol
+381,1,5380,Embotits,Llonganissa extra eco (250 grs),,7,Mas Claperol
+382,1,5381,Embotits,Bull blanc ( de 400gr),,"7,24",Mas Claperol
+383,1,5382,Embotits,"Bull blanc (0,5 kg )",,"19,92",Mas Claperol
+384,1,5383,Embotits,Botifarra blanca eco (125 grs),,"2,41",Mas Claperol
+385,1,5384,Embotits,Botifarra blanca eco (250 grs),,"5,3",Mas Claperol
+386,1,5385,Embotits,Xoriç curat eco (90 grs),,"4,23",Mas Claperol
+387,1,5386,Embotits,Xoriç curat eco (180 grs),,"5,95",Mas Claperol
+388,1,5387,Embotits,Llom curat eco ( 400gr),,"11,67",Mas Claperol
+389,1,5388,Embotits,Llom curat eco ( 1 kg ),,"32,1",Mas Claperol
+390,1,5389,Embotits,Fuet extra eco,,"2,9",Mas Claperol
+391,1,5390,Embotits,Llangonissa extra eco,,"2,95",Mas Claperol
+392,1,5391,Embotits,Bull blanc eco,,"2,38",Mas Claperol
+393,1,5392,Embotits,Botifarra blanca eco,,"2,43",Mas Claperol
+394,1,5393,Embotits,Xoriç curat eco,,"2,81",Mas Claperol
+395,1,5394,Embotits,Llom curat eco,,"3,57",Mas Claperol
+396,1,5395,Embotits,Pernil cuit eco,,"4,85",Mas Claperol
+397,1,5396,Embotits,Pernil curat eco,,"5,81",Mas Claperol
+398,1,5397,Làctics,"Suau de clua peça de 370-400gr (formatge 6) a 19,76€/kg",,"7,40",Formatgeria de Tòrrec
+399,1,5398,Làctics,Cendrat de clua peça de 370-400gr a 22€/kg,,"8,23",Formatgeria de Tòrrec
+400,1,5399,Làctics,"Cendrat de tórrec peça 300-350gr a 23,92€/kgdddd",,"8,38",Formatgeria de Tòrrec
+401,1,5400,Làctics,"Blanc de tórrec peça de 450-500gr (formatge 11) a 23,92€/kgs",,"11,96",Formatgeria de Tòrrec
+402,1,5401,Làctics,Tupi tarrina de 100-120gr. A 41.6€/kg,,"4,99",Formatgeria de Tòrrec
+403,1,5402,Làctics,Llet 1l ,,"3,38",Formatgeria de Tòrrec
+404,1,5403,Làctics,"Mato peça de 500gr. A 11,96€/kg. Comanda mínima 5kg",,"11,96",Formatgeria de Tòrrec
+405,1,5404,Cereals,Arròs blanc 1 Kg,,"3,2032",Riet Vell
+406,1,5405,Cereals,Arròs blanc 5 Kg,,"15,37",Riet Vell
+407,1,5406,Cereals,Arròs integral 1 Kg,,"3,08",Riet Vell
+408,1,5407,Cereals,Arròs integral 5 Kg,,"14,73",Riet Vell
+409,1,5408,Pasta,Espaguetis,,"1,72",Riet Vell
+410,1,5409,Pasta,Macarrons,,"1,72",Riet Vell
+411,1,5410,Pasta,Fideus sopa,,"1,72",Riet Vell
+412,1,5411,Pasta,Fideus fideuà,,"1,72",Riet Vell
+413,1,5412,Pasta,Espirals,,"1,72",Riet Vell
+414,1,5413,Pasta,Espaguetis,,"12,61",Riet Vell
+415,1,5414,Pasta,Macarrons,,"12,61",Riet Vell
+416,1,5415,Pasta,Fideus sopa,,"12,61",Riet Vell
+417,1,5416,Pasta,Fideus fideuà,,"12,61",Riet Vell
+418,1,5417,Pasta,Espirals,,"12,61",Riet Vell
+419,1,5418,Pasta,Espaguetis integrals,,"1,82",Riet Vell
+420,1,5419,Pasta,Macarrons integrals,,"1,82",Riet Vell
+421,1,5420,Pasta,Espaguetis integrals,,"13,64",Riet Vell
+422,1,5421,Pasta,Macarrons integrals,,"13,64",Riet Vell
+423,1,5422,Llegums,Llentia castellana,,"3,86",Riet Vell
+424,1,5423,Llegums,Llentia pardina,,"3,86",Riet Vell
+425,1,5424,Llegums,Cigró pedrosillano,,"3,86",Riet Vell
